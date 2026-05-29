@@ -1,2 +1,1 @@
-# js
-daily browser js script
+平时好用的脚本
