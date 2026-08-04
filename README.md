@@ -1,1 +1,2 @@
-平时好用的脚本
+一个respority 记录平时觉得好用的js 可用于浏览器的Console的js脚本
+
