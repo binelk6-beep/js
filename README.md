@@ -1,2 +1,1 @@
-一个respority 记录平时觉得好用的js 可用于浏览器的Console的js脚本
-
+一个存脚本的仓库，有原始的console(控制台)脚本，也有油猴脚本，其实都是ai写的，这个仓库其实主要还是体现vibe-coding吧
